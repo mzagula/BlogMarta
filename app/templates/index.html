@@ -2,6 +2,12 @@
 {% import 'bootstrap/wtf.html' as wtf %}
 
 {% block app_content %}
-    <h1>Hi, Marta!</h1>
+    <h1>Marta Blog</h1>
+
+{% filter markdown %}
+
+{% include "posts/20210228_Post1.txt" %}
+
+{% endfilter %}
 
 {% endblock %}
