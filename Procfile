@@ -1,1 +1,1 @@
-web: gunicorn marta-zagula:app
+web: gunicorn marta_blog:app
