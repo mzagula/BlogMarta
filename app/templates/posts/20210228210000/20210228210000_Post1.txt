@@ -1,5 +1,19 @@
 ## Post 1
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus posuere nisi id leo rhoncus, sit amet rutrum ligula vestibulum. Aliquam erat volutpat. Nunc mollis est a purus convallis fermentum. Integer ut dolor a risus fermentum lobortis. Aliquam semper magna et lectus faucibus tempus. Pellentesque sed lectus ac mauris convallis tempor vitae non purus. Sed hendrerit sagittis enim nec mattis. Quisque ut pharetra enim, a sagittis nisl. Ut et sem urna. Nunc in viverra erat. Mauris vitae nunc ac odio suscipit dictum. Curabitur purus mauris, hendrerit sed ante eu, porttitor sagittis metus. Ut scelerisque ligula a fringilla viverra. Donec turpis nulla, sodales eget ante vitae, blandit ultrices ipsum. Maecenas vitae magna a dolor fermentum molestie a nec metus. Donec ultrices dui magna, id placerat nisl semper quis.
+Lorem ipsum dolor sit amet, **consectetur adipiscing elit**.
 
-![title]([C:/Users/Marta/PycharmProjects/BlogMarta/app/templates/posts/20210228210000/images/alpaka.png)
+>Phasellus posuere nisi id leo rhoncus, sit amet rutrum ligula vestibulum.
+>
+>>Aliquam erat volutpat. Nunc mollis est a purus convallis fermentum.
+
+>>Integer ut dolor a risus fermentum lobortis.
+
+- Aliquam semper magna et lectus faucibus tempus.
+- Pellentesque sed lectus ac mauris convallis tempor vitae non purus.
+
+
+`Sed hendrerit sagittis enim nec mattis.`
+
+ Quisque ut pharetra enim, a sagittis nisl. Ut et sem urna. Nunc in viverra erat. Mauris vitae nunc ac odio suscipit dictum. Curabitur purus mauris, hendrerit sed ante eu, porttitor sagittis metus. Ut scelerisque ligula a fringilla viverra. Donec turpis nulla, sodales eget ante vitae, blandit ultrices ipsum. Maecenas vitae magna a dolor fermentum molestie a nec metus. Donec ultrices dui magna, id placerat nisl semper quis.
+
+![title](https://raw.githubusercontent.com/mzagula/BlogMarta/main/app/templates/posts/20210228210000/images/alpaka.PNG)

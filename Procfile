@@ -1,0 +1,1 @@
+web: gunicorn marta_blog:app
