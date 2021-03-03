@@ -1,0 +1,11 @@
+### Numpy - Introduction<br/><br/>
+
+Numpy stands for Numerical Python. The main areas where the library can be helpful are:<br/>
+- improve speed-algorithms are written in C so the pace of data processing is faster<br/>
+- simplify loops-the library can reduce the number of iterations. It can also impact on clean code<br/>
+- usable mathematical algorithms - Numpy enables using many mathematical concepts like:  trigonometric,
+statistics, linear algebra.<br/>
+
+First step is to import library:<br />
+>`import numpy as np`
+
